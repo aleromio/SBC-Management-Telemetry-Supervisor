@@ -67,11 +67,6 @@ The system acts as an intelligent supervisor responsible for:
 Custom supervisor PCB designed for automotive reliability and seamless SBC integration:
 
 ![Preview](media/LC2_1.jpeg)
-![Preview](media/LC2_2.jpeg)
-![Preview](media/LC2_3.jpeg)
-![Preview](media/LC2_4.jpeg)
-![Preview](media/LC2_5.jpeg)
-![Preview](media/LC2_6.jpeg)
 
 ---
 
